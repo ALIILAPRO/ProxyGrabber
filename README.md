@@ -4,7 +4,7 @@ This is a proxy grabber application that allows you to retrieve proxy informatio
 
 ### Usage
 
-1. Run the application. [Download](https://github.com/aliilapro/ProxyGrabber)
+1. Run the application. [Download](https://github.com/ALIILAPRO/ProxyGrabber/releases/download/v2.0/Proxy.Grabber.by.aliilapro.zip)
 2. The main interface of the application provides three buttons: "HTTP," "SOCKS4," and "SOCKS5." Each button corresponds to a specific type of proxy.
 3. Click on the "HTTP" button to grab HTTP proxies.
 4. Click on the "SOCKS4" button to grab SOCKS4 proxies.
@@ -15,7 +15,7 @@ This is a proxy grabber application that allows you to retrieve proxy informatio
 
 ### ScreenShot
 
-![](https://github.com/ALIILAPRO/cloudflare-gui-warp/blob/main/ScreenShot/app.JPG)
+![](https://github.com/ALIILAPRO/ProxyGrabber/blob/master/ScreenShot/app.JPG)
 
 ### Requirements
 
