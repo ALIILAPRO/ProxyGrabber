@@ -28,4 +28,4 @@ If you encounter any errors or issues while using the application, please feel f
 
 ### License
 
-This project is licensed under the [GNU General Public License v3.0](https://github.com/ALIILAPRO/ProxyGrabber/blob/main/LICENSE).
+This project is licensed under the [GNU General Public License v3.0](https://github.com/ALIILAPRO/ProxyGrabber/blob/master/LICENSE).
